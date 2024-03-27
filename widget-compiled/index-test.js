@@ -1,2 +1,6 @@
+(()=>{
 console.log('hey!');
-parcelRequire = 1
+parcelRequire = 1;
+})();
+
+
